@@ -53,8 +53,6 @@ def using_insert(array, element)
     flat_array= instruments.flatten
   end
   
-  def using_delete(array, string)
-    instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-     no_offense_steven =instructors.delete("Steven")
-     puts no_offense_steven
+  def using_delete(my_list, my_element)
+  my_list.delete(my_element)
   end
