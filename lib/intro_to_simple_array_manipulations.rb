@@ -58,5 +58,6 @@ def using_insert(array, element)
   end
   
   def using_delete_at (array, integer)
-    
+    famous_robots = ["Johnny 5", "R2D2", "Robocop"]
+    deleted_robot =famous_robots
   end
