@@ -56,4 +56,5 @@ def using_insert(array, element)
   def using_delete(array,)
     instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
      no_offense_steven =instructors.delete("Steven")
+     puts no_offense_steven
   end
